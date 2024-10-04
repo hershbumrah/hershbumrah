@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hershbumrah
 - 👀 I’m interested in computer and data science, as well as projects involving AI and business applications
-- 🌱 I’m currently learning computer archicture, in the C programming language
-- 💞️ I’m looking to collaborate on a project in Java or Python that explores artificial intelligence
+- 🌱 I’m currently learning statistical inference for data science
+- 💞️ I’m looking to collaborate on a project Java or Python that utilizes machine learning and/or neural networks and applies them to business applicatoins
 - 📫 How to reach me: If interested in collaborating on a project, contact me via email bumrahherschelle@gmail.com
 
 <!---
