@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @hershbumrah
-- 👀 I’m interested in computer and data science, as well as projects involving AI, machine learning, and business applications
-- 🌱 I’m currently learning regression methods for data science
-- 💞️ I’m looking to collaborate on a project Java or Python that utilizes machine learning and/or neural networks and applies them to business applicatoins
-- 📫 How to reach me: If interested in collaborating on a project, contact me via email bumrahherschelle@gmail.com
+AI/ML engineer shipping production systems. I build end-to-end ML pipelines—data → training/evals → low-latency inference & monitoring—with interests in computer vision, NLP, RAG/agents, and MLOps.  
+**Stack:** Python, PyTorch/TensorFlow, scikit-learn, FastAPI, vector DBs, Docker/Kubernetes, AWS/GCP/Azure, GitHub Actions.  
+Always learning, always building—PRs welcome.
 
 <!---
 hershbumrah/hershbumrah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
