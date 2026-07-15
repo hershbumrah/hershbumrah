@@ -1,6 +1,6 @@
 # Herschelle Bumrah
 
-I am an **AI Systems & Software Engineer** specializing in high-performance AI infrastructure, low-latency gateways, and secure, production-grade architectures. My work bridges the gap between raw machine learning capabilities and robust, enterprise-scale software engineering.
+I am an **AI/ML Systems & Software Engineer** specializing in high-performance AI infrastructure, low-latency gateways, and secure, production-grade architectures. My work bridges the gap between raw machine learning capabilities and robust, enterprise-scale software engineering.
 
 Currently, I design and build production AI systems, gateways, and cloud architectures utilizing **Rust, TypeScript, Python, and Microsoft Azure**.
 
