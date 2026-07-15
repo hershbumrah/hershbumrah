@@ -8,7 +8,7 @@ Currently, I design and build production AI systems, gateways, and cloud archite
 
 ## Technical Capabilities
 
-*   **Systems Architecture & Software Design:** Designing modular, robust systems using strong software engineering principles and industry-standard design patterns (e.g., Adapter, Builder) to construct clean, maintainable, and highly deterministic codebases.
+*   **Systems Architecture & Software Design:** Designing modular, robust systems using strong software engineering principles, industry-standard design patterns, and system design to construct clean, maintainable, and highly deterministic codebases.
 *   **Cloud Infrastructure & Modern DevOps:** Architecting scalable, secure cloud-native microservices, orchestrating containerized environments, and implementing resilient CI/CD pipelines to achieve automated, zero-downtime continuous delivery.
 *   **Performance & Low-Latency Optimization:** Engineering high-performance backend layers, managing efficient local data streaming, and utilizing systems-level programming languages to maximize throughput and minimize memory footprints.
 
